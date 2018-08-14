@@ -1,0 +1,19 @@
+.Pag{
+    font-family: 'Verdana';
+    font-size: 130%;
+    text-decoration: none;
+    padding-left: 500px;
+    
+}
+
+.Pag li{
+    display: block;
+    float: left;
+    
+    margin: 20px;
+}
+
+.Lnk{
+    text-decoration: none;
+    color: black;
+}

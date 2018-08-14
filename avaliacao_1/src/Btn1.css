@@ -1,0 +1,17 @@
+.Sect{
+    background-color: black;
+    width: 250px;
+    height: 330px;
+    color: aliceblue;
+    font-family: 'Verdana';
+    font-size: 130%;
+    margin: 2px;
+    float: left;
+    padding-left: 8px;
+}
+
+.Img{
+    width: 200px;
+    height: 150px;
+    padding: 3px;
+}
